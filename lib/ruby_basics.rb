@@ -24,7 +24,7 @@ def last_evaluated_value
 
 end
 
-def pizza_party(food = cheese)
+def pizza_party(food = "cheese")
   return food
 
 end
